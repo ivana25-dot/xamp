@@ -16,7 +16,7 @@ import {
 // Cambia esta URL:
 // Android Emulator: http://10.0.2.2:3000/api/posts
 // Dispositivo físico: http://TU_IP:3000/api/posts (ejemplo: http://192.168.1.5:3000/api/posts)
-const API_URL = 'http://10.0.2.2:3000/api/posts';
+const API_URL = 'http://192.168.1.36:3000/api/posts';
 
 interface Post {
   id: number;
